@@ -1,4 +1,4 @@
-# My-Capstone-Project
+# My-Capstone-Project - Amazon Product Review Analysis
 This is my first hands-on project in my data analysis journey. This project was completed as part of my role as a Junior Analyst with RetailTech Insight. The deliverables include an Excel dashboard. 
 The dataset contains information scraped from Amazon product pages, including: 
 a) Product details: name, category, price, discount, and ratings 
