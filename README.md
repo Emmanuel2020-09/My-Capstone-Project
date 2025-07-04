@@ -22,3 +22,19 @@ Pivot tables and calculated columns were created where necessary to answer these
 12. How many products have fewer than 1,000 reviews? 
 13. Which categories have products with the highest discounts? 
 14. Identify the top 5 products in terms of rating and number of reviews combined
+
+Tools Used
+1.  Microsoft Excel (Pivot Tables, Charts, Formulas)
+2.  Power Query (for data cleaning)
+3.  GitHub (for version control and documentation)
+
+## 🙌 Acknowledgements
+
+Special thanks to the almighty God, my family and my wife - Oreoluwa as well as team at *Incubator Hub* for the opportunity to work on this analysis and to all our mentors for their guidance on transforming raw data into impactful business insights. 
+
+## 🚀 Contact
+
+Feel free to reach out or connect with me:  
+📧 emmanuel_awoyemi@yahoo.com
+💼 www.linkedin.com/in/emmanuel-awoyemi-70995517b
+
