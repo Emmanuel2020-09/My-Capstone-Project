@@ -23,7 +23,7 @@ Pivot tables and calculated columns were created where necessary to answer these
 13. Which categories have products with the highest discounts? 
 14. Identify the top 5 products in terms of rating and number of reviews combined
 
-Tools Used
+## Tools Used
 1.  Microsoft Excel (Pivot Tables, Charts, Formulas)
 2.  Power Query (for data cleaning)
 3.  GitHub (for version control and documentation)
